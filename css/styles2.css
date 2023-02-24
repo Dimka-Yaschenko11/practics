@@ -1,0 +1,23 @@
+.logo-link {
+    font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+text-decoration: none;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+.header-mail-link {
+    text-decoration: none;
+}
+
+.header-tel-link {
+    text-decoration: none;
+}  
